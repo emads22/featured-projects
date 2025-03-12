@@ -33,16 +33,16 @@ Discover a collection of **powerful, open-source projects** designed to automate
   <tr>
     <td align="left">
       <a href="https://github.com/emads22/DocuPy" target="_blank">
-        <img src="logos/DocuPy_logo.png" width="120"><br>🔓 DocuPy 🔗
+        <img src="logos/DocuPy_logo.png" width="120"><br><h3>🔓 DocuPy 🔗</h3>
       </a>
     </td>
-    <td width="50"></td> <!-- Adds space -->
+    <!-- <td width="50"></td> Adds space -->
     <td align="left">
       <a href="https://github.com/emads22/IntelliByte" target="_blank">
-        <img src="logos/IntelliByte_logo.png" width="120"><br>IntelliByte 🔗
+        <img src="logos/IntelliByte_logo.png" width="120"><br><h2>IntelliByte 🔗</h2>
       </a>
     </td>
-    <td width="50"></td> <!-- Adds space -->
+    <!-- <td width="50"></td> Adds space -->
     <td align="left">
       <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
         <img src="logos/Recommendation-Systems-Explored_logo.png" width="120"><br>🔓 Recommendation-Systems-Explored
