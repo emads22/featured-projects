@@ -39,8 +39,8 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
-                    <img src="logos/Recommendation-Systems-Explored_logo.png" width="120">
+                <a href="https://github.com/emads22/Recommender-Systems" target="_blank">
+                    <img src="logos/Recommender-Systems_logo.png" width="120">
                     <br><br>Recommender-Systems
                 </a>
             </h3>
@@ -77,8 +77,6 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/MarketMapper" target="_blank">
@@ -87,6 +85,8 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
+    </tr>
+    <tr>        
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/MotionAlert" target="_blank">
@@ -103,8 +103,6 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/Notebook-Generator" target="_blank">
@@ -121,6 +119,8 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/Student-Management-System" target="_blank">
@@ -129,8 +129,6 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/WordWise-Dictionary" target="_blank">
