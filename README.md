@@ -25,7 +25,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
             <h3>
                 <a href="https://github.com/emads22/DocuPy" target="_blank">
                     <img src="logos/DocuPy_logo.png" width="120">
-                    <br>DocuPy
+                    <br><br>DocuPy
                 </a>
             </h3>
         </td>
@@ -34,7 +34,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
             <h3>
                 <a href="https://github.com/emads22/IntelliByte" target="_blank">
                     <img src="logos/IntelliByte_logo.png" width="120">
-                    <br>IntelliByte
+                    <br><br>IntelliByte
                 </a>
             </h3>
         </td>
@@ -42,7 +42,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
             <h3>
                 <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
                     <img src="logos/Recommendation-Systems-Explored_logo.png" width="120">
-                    <br>Recommendation-Systems-Explored
+                    <br><br>Recommendation-Systems-Explored
             </a>
         </td>
     </tr>
