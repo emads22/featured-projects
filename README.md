@@ -18,42 +18,31 @@ Discover a collection of **powerful, open-source projects** designed to automate
 
 ---
 
-## 🧠 **AI and Machine Learning** 
-### <a href="https://github.com/emads22/DocuPy" target="_blank">🔓 DocuPy 🔗</a>
-<img src="logos/DocuPy_logo.png" alt="DocuPy_logo" width="150"> 
-
-### <a href="https://github.com/emads22/IntelliByte" target="_blank">🔓 IntelliByte 🔗</a>
-<img src="logos/IntelliByte_logo.png" alt="IntelliByte_logo" width="150"> 
-
-### <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">🔓 Recommendation-Systems-Explored 🔗</a>
-<img src="logos/Recommendation-Systems-Explored_logo.png" alt="Recommendation-Systems-Explored_logo" width="150"> 
-
 ## 🧠 **AI and Machine Learning**  
 <table>
     <tr>
-        <td align="left">
+        <td align="center">
             <h3>
                 <a href="https://github.com/emads22/DocuPy" target="_blank">
                     <img src="logos/DocuPy_logo.png" width="120">
-                    <br>DocuPy 🔗
+                    <br>DocuPy
                 </a>
             </h3>
         </td>
             <!-- <td width="50"></td> Adds space -->
-        <td align="left">
+        <td align="center">
             <h3>
                 <a href="https://github.com/emads22/IntelliByte" target="_blank">
                     <img src="logos/IntelliByte_logo.png" width="120">
-                    <br>IntelliByte 🔗
+                    <br>IntelliByte
                 </a>
             </h3>
         </td>
-            <!-- <td width="50"></td> Adds space -->
-        <td align="left">
+        <td align="center">
             <h3>
                 <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
                     <img src="logos/Recommendation-Systems-Explored_logo.png" width="120">
-                    <br>Recommendation-Systems-Explored 🔗
+                    <br>Recommendation-Systems-Explored
             </a>
         </td>
     </tr>
