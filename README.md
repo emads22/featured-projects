@@ -1,3 +1,5 @@
+# Featured Open-Source Projects
+
 <img src="logos/E_circle.png" alt="E_logo" width="300">
 
 ## 📝 **Overview**  
