@@ -31,19 +31,19 @@ Discover a collection of **powerful, open-source projects** designed to automate
 ## 🧠 **AI and Machine Learning**  
 <table>
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://github.com/emads22/DocuPy" target="_blank">
         <img src="logos/DocuPy_logo.png" width="120"><br>🔓 DocuPy 🔗
       </a>
     </td>
     <td width="50"></td> <!-- Adds space -->
-    <td align="center">
+    <td align="left">
       <a href="https://github.com/emads22/IntelliByte" target="_blank">
         <img src="logos/IntelliByte_logo.png" width="120"><br>IntelliByte 🔗
       </a>
     </td>
     <td width="50"></td> <!-- Adds space -->
-    <td align="center">
+    <td align="left">
       <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
         <img src="logos/Recommendation-Systems-Explored_logo.png" width="120"><br>🔓 Recommendation-Systems-Explored
       </a>
