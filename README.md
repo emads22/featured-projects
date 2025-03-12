@@ -23,7 +23,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/DocuPy" target="_blank">
+                <a href="https://github.com/emads22/DocuPy">
                     <img src="logos/DocuPy_logo.png" width="120">
                     <br><br>DocuPy
                 </a>
@@ -31,7 +31,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/IntelliByte" target="_blank">
+                <a href="https://github.com/emads22/IntelliByte">
                     <img src="logos/IntelliByte_logo.png" width="120">
                     <br><br>IntelliByte
                 </a>
@@ -39,7 +39,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Recommender-Systems" target="_blank">
+                <a href="https://github.com/emads22/Recommender-Systems">
                     <img src="logos/Recommender-Systems_logo.png" width="120">
                     <br><br>Recommender-Systems
                 </a>
@@ -55,7 +55,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/CaptureX" target="_blank">
+                <a href="https://github.com/emads22/CaptureX">
                     <img src="logos/CaptureX_logo.png" width="120">
                     <br><br>CaptureX
                 </a>
@@ -63,7 +63,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/CensorFace" target="_blank">
+                <a href="https://github.com/emads22/CensorFace">
                     <img src="logos/CensorFace_logo.png" width="120">
                     <br><br>CensorFace
                 </a>
@@ -71,25 +71,25 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Hotel-Booking-System" target="_blank">
+                <a href="https://github.com/emads22/Hotel-Booking-System">
                     <img src="logos/Hotel-Booking-System_logo.png" width="120">
                     <br><br>Hotel-Booking-System
                 </a>
             </h3>
         </td>
+    </tr>
+    <tr> 
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/MarketMapper" target="_blank">
+                <a href="https://github.com/emads22/MarketMapper">
                     <img src="logos/MarketMapper_logo.png" width="120">
                     <br><br>MarketMapper
                 </a>
             </h3>
-        </td>
-    </tr>
-    <tr>        
+        </td>           
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/MotionAlert" target="_blank">
+                <a href="https://github.com/emads22/MotionAlert">
                     <img src="logos/MotionAlert_logo.png" width="120">
                     <br><br>MotionAlert
                 </a>
@@ -97,15 +97,17 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/NewsWire" target="_blank">
+                <a href="https://github.com/emads22/NewsWire">
                     <img src="logos/NewsWire_logo.png" width="120">
                     <br><br>NewsWire
                 </a>
             </h3>
         </td>
+    </tr>
+    <tr> 
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Notebook-Generator" target="_blank">
+                <a href="https://github.com/emads22/Notebook-Generator">
                     <img src="logos/Notebook-Generator_logo.png" width="120">
                     <br><br>Notebook-Generator
                 </a>
@@ -113,25 +115,25 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/ShapeArt" target="_blank">
+                <a href="https://github.com/emads22/ShapeArt">
                     <img src="logos/ShapeArt_logo.png" width="120">
                     <br><br>ShapeArt
                 </a>
             </h3>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Student-Management-System" target="_blank">
+                <a href="https://github.com/emads22/Student-Management-System">
                     <img src="logos/Student-Management-System_logo.png" width="120">
                     <br><br>Student-Management-System
                 </a>
             </h3>
         </td>
+    </tr>
+    <tr> 
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/WordWise-Dictionary" target="_blank">
+                <a href="https://github.com/emads22/WordWise-Dictionary">
                     <img src="logos/WordWise-Dictionary_logo.png" width="120">
                     <br><br>WordWise-Dictionary
                 </a>
@@ -147,7 +149,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/CalorieQuest" target="_blank">
+                <a href="https://github.com/emads22/CalorieQuest">
                     <img src="logos/CalorieQuest_logo.png" width="120">
                     <br><br>CalorieQuest
                 </a>
@@ -155,7 +157,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Cocktail-Compass" target="_blank">
+                <a href="https://github.com/emads22/Cocktail-Compass">
                     <img src="logos/Cocktail-Compass_logo.png" width="120">
                     <br><br>Cocktail-Compass
                 </a>
@@ -163,7 +165,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/DeliciousBite" target="_blank">
+                <a href="https://github.com/emads22/DeliciousBite">
                     <img src="logos/DeliciousBite_logo.png" width="120">
                     <br><br>DeliciousBite
                 </a>
@@ -173,7 +175,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/EchoMood" target="_blank">
+                <a href="https://github.com/emads22/EchoMood">
                     <img src="logos/EchoMood_logo.png" width="120">
                     <br><br>EchoMood
                 </a>
@@ -181,7 +183,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Flatshare-Splitter-Web" target="_blank">
+                <a href="https://github.com/emads22/Flatshare-Splitter-Web">
                     <img src="logos/Flatshare-Splitter-Web_logo.png" width="120">
                     <br><br>Flatshare-Splitter-Web
                 </a>
@@ -189,7 +191,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/Forecast-Finder" target="_blank">
+                <a href="https://github.com/emads22/Forecast-Finder">
                     <img src="logos/Forecast-Finder_logo.png" width="120">
                     <br><br>Forecast-Finder
                 </a>
@@ -199,7 +201,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/FXRate-API" target="_blank">
+                <a href="https://github.com/emads22/FXRate-API">
                     <img src="logos/FXRate-API_logo.png" width="120">
                     <br><br>FXRate-API
                 </a>
@@ -207,7 +209,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/RetroWeather-API" target="_blank">
+                <a href="https://github.com/emads22/RetroWeather-API">
                     <img src="logos/RetroWeather-API_logo.png" width="120">
                     <br><br>RetroWeather-API
                 </a>
@@ -215,7 +217,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/WordWiz" target="_blank">
+                <a href="https://github.com/emads22/WordWiz">
                     <img src="logos/WordWiz_logo.png" width="120">
                     <br><br>WordWiz
                 </a>
@@ -225,7 +227,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/WordWiz-API" target="_blank">
+                <a href="https://github.com/emads22/WordWiz-API">
                     <img src="logos/WordWiz-API_logo.png" width="120">
                     <br><br>WordWiz-API
                 </a>
@@ -241,7 +243,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/EventTune-Tracker" target="_blank">
+                <a href="https://github.com/emads22/EventTune-Tracker">
                     <img src="logos/EventTune-Tracker_logo.png" width="120">
                     <br><br>EventTune-Tracker
                 </a>
@@ -249,7 +251,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/PricePulse" target="_blank">
+                <a href="https://github.com/emads22/PricePulse">
                     <img src="logos/PricePulse_logo.png" width="120">
                     <br><br>PricePulse
                 </a>
@@ -265,7 +267,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/MoodWave" target="_blank">
+                <a href="https://github.com/emads22/MoodWave">
                     <img src="logos/MoodWave_logo.png" width="120">
                     <br><br>MoodWave
                 </a>
@@ -273,7 +275,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/ToneAnalyzer" target="_blank">
+                <a href="https://github.com/emads22/ToneAnalyzer">
                     <img src="logos/ToneAnalyzer_logo.png" width="120">
                     <br><br>ToneAnalyzer
                 </a>
@@ -289,7 +291,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
     <tr>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/eminem-lyric-package" target="_blank">
+                <a href="https://github.com/emads22/eminem-lyric-package">
                     <img src="logos/eminem-lyric-package_logo.png" width="120">
                     <br><br>eminem-lyric-package
                 </a>
@@ -297,7 +299,7 @@ Discover a collection of **powerful, open-source projects** designed to automate
         </td>
         <td align="center">
             <h3>
-                <a href="https://github.com/emads22/invoice-pdfgen-python" target="_blank">
+                <a href="https://github.com/emads22/invoice-pdfgen-python">
                     <img src="logos/invoice-pdfgen-python_logo.png" width="120">
                     <br><br>invoice-pdfgen-python
                 </a>
