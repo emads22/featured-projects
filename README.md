@@ -29,7 +29,6 @@ Discover a collection of **powerful, open-source projects** designed to automate
                 </a>
             </h3>
         </td>
-            <!-- <td width="50"></td> Adds space -->
         <td align="center">
             <h3>
                 <a href="https://github.com/emads22/IntelliByte" target="_blank">
@@ -51,35 +50,96 @@ Discover a collection of **powerful, open-source projects** designed to automate
 ---
 
 ## 💻 **Application Development**  
-### [🔓 CaptureX 🔗](https://github.com/emads22/CaptureX)  
-<img src="logos/CaptureX_logo.png" alt="CaptureX_logo" width="150">  
-
-### [🔓 CensorFace 🔗](https://github.com/emads22/CensorFace)  
-<img src="logos/CensorFace_logo.png" alt="CensorFace_logo" width="150">  
-
-### [🔓 Hotel-Booking-System 🔗](https://github.com/emads22/Hotel-Booking-System)  
-<img src="logos/Hotel-Booking-System_logo.png" alt="Hotel-Booking-System_logo" width="150">  
-
-### [🔓 MarketMapper 🔗](https://github.com/emads22/MarketMapper)  
-<img src="logos/MarketMapper_logo.png" alt="MarketMapper_logo" width="150">  
-
-### [🔓 MotionAlert 🔗](https://github.com/emads22/MotionAlert)  
-<img src="logos/MotionAlert_logo.png" alt="MotionAlert_logo" width="150">  
-
-### [🔓 NewsWire 🔗](https://github.com/emads22/NewsWire)  
-<img src="logos/NewsWire_logo.png" alt="NewsWire_logo" width="150">  
-
-### [🔓 Notebook-Generator 🔗](https://github.com/emads22/Notebook-Generator)  
-<img src="logos/Notebook-Generator_logo.png" alt="Notebook-Generator_logo" width="150">  
-
-### [🔓 ShapeArt 🔗](https://github.com/emads22/ShapeArt)  
-<img src="logos/ShapeArt_logo.png" alt="ShapeArt_logo" width="150">  
-
-### [🔓 Student-Management-System 🔗](https://github.com/emads22/Student-Management-System)  
-<img src="logos/Student-Management-System_logo.png" alt="Student-Management-System_logo" width="150">  
-
-### [🔓 WordWise-Dictionary 🔗](https://github.com/emads22/WordWise-Dictionary)  
-<img src="logos/WordWise-Dictionary_logo.png" alt="WordWise-Dictionary_logo" width="150">  
+<table>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/CaptureX" target="_blank">
+                    <img src="logos/CaptureX_logo.png" width="120">
+                    <br><br>CaptureX
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/CensorFace" target="_blank">
+                    <img src="logos/CensorFace_logo.png" width="120">
+                    <br><br>CensorFace
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Hotel-Booking-System" target="_blank">
+                    <img src="logos/Hotel-Booking-System_logo.png" width="120">
+                    <br><br>Hotel-Booking-System
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/MarketMapper" target="_blank">
+                    <img src="logos/MarketMapper_logo.png" width="120">
+                    <br><br>MarketMapper
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/MotionAlert" target="_blank">
+                    <img src="logos/MotionAlert_logo.png" width="120">
+                    <br><br>MotionAlert
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/NewsWire" target="_blank">
+                    <img src="logos/NewsWire_logo.png" width="120">
+                    <br><br>NewsWire
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Notebook-Generator" target="_blank">
+                    <img src="logos/Notebook-Generator_logo.png" width="120">
+                    <br><br>Notebook-Generator
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/ShapeArt" target="_blank">
+                    <img src="logos/ShapeArt_logo.png" width="120">
+                    <br><br>ShapeArt
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Student-Management-System" target="_blank">
+                    <img src="logos/Student-Management-System_logo.png" width="120">
+                    <br><br>Student-Management-System
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/WordWise-Dictionary" target="_blank">
+                    <img src="logos/WordWise-Dictionary_logo.png" width="120">
+                    <br><br>WordWise-Dictionary
+                </a>
+            </h3>
+        </td>
+    </tr>
+</table>
 
 ---
 
