@@ -41,8 +41,9 @@ Discover a collection of **powerful, open-source projects** designed to automate
             <h3>
                 <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
                     <img src="logos/Recommendation-Systems-Explored_logo.png" width="120">
-                    <br><br>Recommendation-Systems-Explored
-            </a>
+                    <br><br>Recommender-Systems
+                </a>
+            </h3>
         </td>
     </tr>
 </table>
@@ -144,62 +145,168 @@ Discover a collection of **powerful, open-source projects** designed to automate
 ---
 
 ## 🌍 **Web Development and API**  
-### <a href="https://github.com/emads22/CalorieQuest" target="_blank">🔓 CalorieQuest 🔗</a>
-<img src="logos/CalorieQuest_logo.png" alt="CalorieQuest_logo" width="150"> 
-
-### <a href="https://github.com/emads22/Cocktail-Compass" target="_blank">🔓 Cocktail-Compass 🔗</a>
-<img src="logos/Cocktail-Compass_logo.png" alt="Cocktail-Compass_logo" width="150"> 
-
-### <a href="https://github.com/emads22/DeliciousBite" target="_blank">🔓 DeliciousBite 🔗</a>
-<img src="logos/DeliciousBite_logo.png" alt="DeliciousBite_logo" width="150"> 
-
-### <a href="https://github.com/emads22/EchoMood" target="_blank">🔓 EchoMood 🔗</a>
-<img src="logos/EchoMood_logo.png" alt="EchoMood_logo" width="150"> 
-
-### <a href="https://github.com/emads22/Flatshare-Splitter-Web" target="_blank">🔓 Flatshare-Splitter-Web 🔗</a>
-<img src="logos/Flatshare-Splitter-Web_logo.png" alt="Flatshare-Splitter-Web_logo" width="150"> 
-
-### <a href="https://github.com/emads22/Forecast-Finder" target="_blank">🔓 Forecast-Finder 🔗</a>
-<img src="logos/Forecast-Finder_logo.png" alt="Forecast-Finder_logo" width="150"> 
-
-### <a href="https://github.com/emads22/FXRate-API" target="_blank">🔓 FXRate-API 🔗</a>
-<img src="logos/FXRate-API_logo.png" alt="FXRate-API_logo" width="150"> 
-
-### <a href="https://github.com/emads22/RetroWeather-API" target="_blank">🔓 RetroWeather-API 🔗</a>
-<img src="logos/RetroWeather-API_logo.png" alt="RetroWeather-API_logo" width="150">
-
-### <a href="https://github.com/emads22/WordWiz" target="_blank">🔓 WordWiz 🔗</a>
-<img src="logos/WordWiz_logo.png" alt="WordWiz_logo" width="150"> 
-
-### <a href="https://github.com/emads22/WordWiz-API" target="_blank">🔓 WordWiz-API 🔗</a>
-<img src="logos/WordWiz-API_logo.png" alt="WordWiz-API_logo" width="150"> 
+<table>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/CalorieQuest" target="_blank">
+                    <img src="logos/CalorieQuest_logo.png" width="120">
+                    <br><br>CalorieQuest
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Cocktail-Compass" target="_blank">
+                    <img src="logos/Cocktail-Compass_logo.png" width="120">
+                    <br><br>Cocktail-Compass
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/DeliciousBite" target="_blank">
+                    <img src="logos/DeliciousBite_logo.png" width="120">
+                    <br><br>DeliciousBite
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/EchoMood" target="_blank">
+                    <img src="logos/EchoMood_logo.png" width="120">
+                    <br><br>EchoMood
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Flatshare-Splitter-Web" target="_blank">
+                    <img src="logos/Flatshare-Splitter-Web_logo.png" width="120">
+                    <br><br>Flatshare-Splitter-Web
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/Forecast-Finder" target="_blank">
+                    <img src="logos/Forecast-Finder_logo.png" width="120">
+                    <br><br>Forecast-Finder
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/FXRate-API" target="_blank">
+                    <img src="logos/FXRate-API_logo.png" width="120">
+                    <br><br>FXRate-API
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/RetroWeather-API" target="_blank">
+                    <img src="logos/RetroWeather-API_logo.png" width="120">
+                    <br><br>RetroWeather-API
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/WordWiz" target="_blank">
+                    <img src="logos/WordWiz_logo.png" width="120">
+                    <br><br>WordWiz
+                </a>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/WordWiz-API" target="_blank">
+                    <img src="logos/WordWiz-API_logo.png" width="120">
+                    <br><br>WordWiz-API
+                </a>
+            </h3>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ## 🤖 **Automation and Web Scraping**  
-### <a href="https://github.com/emads22/EventTune-Tracker" target="_blank">🔓 EventTune-Tracker 🔗</a>
-<img src="logos/EventTune-Tracker_logo.png" alt="EventTune-Tracker_logo" width="150"> 
-
-### <a href="https://github.com/emads22/PricePulse" target="_blank">🔓 PricePulse 🔗</a>
-<img src="logos/PricePulse_logo.png" alt="PricePulse_logo" width="150"> 
+<table>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/EventTune-Tracker" target="_blank">
+                    <img src="logos/EventTune-Tracker_logo.png" width="120">
+                    <br><br>EventTune-Tracker
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/PricePulse" target="_blank">
+                    <img src="logos/PricePulse_logo.png" width="120">
+                    <br><br>PricePulse
+                </a>
+            </h3>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ## 📊 **Data Analysis and Visualization**  
-### <a href="https://github.com/emads22/MoodWave" target="_blank">🔓 MoodWave 🔗</a>
-<img src="logos/MoodWave_logo.png" alt="MoodWave_logo" width="150"> 
-
-### <a href="https://github.com/emads22/ToneAnalyzer" target="_blank">🔓 ToneAnalyzer 🔗</a>
-<img src="logos/ToneAnalyzer_logo.png" alt="ToneAnalyzer_logo" width="150"> 
+<table>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/MoodWave" target="_blank">
+                    <img src="logos/MoodWave_logo.png" width="120">
+                    <br><br>MoodWave
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/ToneAnalyzer" target="_blank">
+                    <img src="logos/ToneAnalyzer_logo.png" width="120">
+                    <br><br>ToneAnalyzer
+                </a>
+            </h3>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ## 📦 **Packages**      
-### <a href="https://github.com/emads22/eminem-lyric-package" target="_blank">🔓 eminem-lyric-package 🔗</a>
-<img src="logos/eminem-lyric-package_logo.png" alt="eminem-lyric-package_logo" width="150"> 
-
-### <a href="https://github.com/emads22/invoice-pdfgen-python" target="_blank">🔓 invoice-pdfgen-python 🔗</a>
-<img src="logos/invoice-pdfgen-python_logo.png" alt="invoice-pdfgen-python_logo" width="150"> 
+<table>
+    <tr>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/eminem-lyric-package" target="_blank">
+                    <img src="logos/eminem-lyric-package_logo.png" width="120">
+                    <br><br>eminem-lyric-package
+                </a>
+            </h3>
+        </td>
+        <td align="center">
+            <h3>
+                <a href="https://github.com/emads22/invoice-pdfgen-python" target="_blank">
+                    <img src="logos/invoice-pdfgen-python_logo.png" width="120">
+                    <br><br>invoice-pdfgen-python
+                </a>
+            </h3>
+        </td>
+    </tr>
+</table>
 
 ---
 
