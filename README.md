@@ -29,35 +29,13 @@ Discover a collection of **powerful, open-source projects** designed to automate
 <img src="logos/Recommendation-Systems-Explored_logo.png" alt="Recommendation-Systems-Explored_logo" width="150"> 
 
 ## 🧠 **AI and Machine Learning**  
-<table cellspacing=100>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/emads22/DocuPy" target="_blank">
-        <img src="logos/DocuPy_logo.png" width="120"><br>DocuPy
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/emads22/IntelliByte" target="_blank">
-        <img src="logos/IntelliByte_logo.png" width="120"><br>IntelliByte
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/emads22/Recommendation-Systems-Explored" target="_blank">
-        <img src="logos/Recommendation-Systems-Explored_logo.png" width="120"><br>Recommendation-Systems-Explored
-      </a>
-    </td>
-  </tr>
-</table>
-
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/emads22/DocuPy" target="_blank">
-        <img src="logos/DocuPy_logo.png" width="120"><br>🔓 DocuPy
-      </a>
+    <td>
+      [![🔓 DocuPy 🔗](logos/DocuPy_logo.png)](https://github.com/emads22/DocuPy)
     </td>
     <td width="50"></td> <!-- Adds space -->
-    <td align="center">
+    <td>
       <a href="https://github.com/emads22/IntelliByte" target="_blank">
         <img src="logos/IntelliByte_logo.png" width="120"><br>🔓 IntelliByte
       </a>
