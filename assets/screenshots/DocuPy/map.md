@@ -19,5 +19,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/DocuPy) | [🔗 Back to Featured Projects](../../../README.md
-#-ai-and-machine-learning)
+### [🔗 View on GitHub](https://github.com/emads22/DocuPy) | [🔗 Back to Featured Projects](../../../README.md#-ai-and-machine-learning)

@@ -17,5 +17,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/Cocktail-Compass) | [🔗 Back to Featured Projects](../../../README.md
-#-web-development-and-api)
+### [🔗 View on GitHub](https://github.com/emads22/Cocktail-Compass) | [🔗 Back to Featured Projects](../../../README.md#-web-development-and-api)

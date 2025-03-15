@@ -11,5 +11,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/IntelliByte) | [🔗 Back to Featured Projects](../../../README.md
-#-ai-and-machine-learning)
+### [🔗 View on GitHub](https://github.com/emads22/IntelliByte) | [🔗 Back to Featured Projects](../../../README.md#-ai-and-machine-learning)

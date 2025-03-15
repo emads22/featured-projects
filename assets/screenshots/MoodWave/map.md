@@ -14,5 +14,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/MoodWave) | [🔗 Back to Featured Projects](../../../README.md
-#-data-analysis-and-visualization)
+### [🔗 View on GitHub](https://github.com/emads22/MoodWave) | [🔗 Back to Featured Projects](../../../README.md#-data-analysis-and-visualization)

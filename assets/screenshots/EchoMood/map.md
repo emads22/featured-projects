@@ -19,5 +19,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/CaptureX) | [🔗 Back to Featured Projects](../../../README.md
-)
+### [🔗 View on GitHub](https://github.com/emads22/CaptureX) | [🔗 Back to Featured Projects](../../../README.md)

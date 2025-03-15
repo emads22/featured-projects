@@ -12,5 +12,4 @@
 
 ---
 
-### [🔗 View on GitHub](https://github.com/emads22/EventTune-Tracker) | [🔗 Back to Featured Projects](../../../README.md
-#-automation-and-web-scraping)
+### [🔗 View on GitHub](https://github.com/emads22/EventTune-Tracker) | [🔗 Back to Featured Projects](../../../README.md#-automation-and-web-scraping)
